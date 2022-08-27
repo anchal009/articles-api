@@ -13,7 +13,7 @@
 > 
 > Article URL: https://storage.googleapis.com/aller-structure-task/articles.json
 > 
-> Content Marketing URL: https://storage.googleapis.com/aller-structure- task/contentmarketing.json
+> Content Marketing URL: https://storage.googleapis.com/aller-structure-task/contentmarketing.json
 
 #### Exposed REST apis
 Here below the most relevant features exposed using REST Apis:
