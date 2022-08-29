@@ -26,7 +26,7 @@ public class ApiServiceTest {
     private ApiService apiService;
 
     @Test
-    public void given_existing_users_when_getUserPresentationList_return_validList() {
+    public void given_articles_contentmarketing_test_if_ads_added_or_not() {
         ArticleItem articleItem1 = getItemTestData("Article");
         ArticleItem articleItem2 = getItemTestData("Article");
         ArticleItem articleItem3 = getItemTestData("Article");
