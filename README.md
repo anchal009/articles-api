@@ -18,7 +18,7 @@
 #### Exposed REST apis
 Here below the most relevant features exposed using REST Apis:
 
-#### User management features
+#### Features
 
 * JSON containing an array created from the two responses
 
